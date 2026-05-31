@@ -5,8 +5,7 @@
 
 🎓 ECm Student @ VIT Chennai  
 🤖 AI/ML Enthusiast  
-💻 Builder of random cool things that somehow work  
-☕ Powered by caffeine, deadlines, and curiosity  
+
 
 ---
 
